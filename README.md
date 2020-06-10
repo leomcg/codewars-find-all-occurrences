@@ -1,2 +1,2 @@
-# codewars-find-all-occurrences
-Kata: Find all occurrences of an element in an array
+# Kata description:
+https://www.codewars.com/kata/59a9919107157a45220000e1
